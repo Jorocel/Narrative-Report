@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document provides an in-depth exploration of core data structures and algorithms that are fundamental to computer science. These include sorting algorithms, resizable arrays, hash tables, binary search trees (BSTs), and single-source shortest paths (SSSP). Each concept is explained in detail with its principles, operations, applications, and challenges.
+This document provides an in-depth exploration of core data structures and algorithms that are fundamental to computer engineering. These include sorting algorithms, resizable arrays, hash tables, binary search trees (BSTs), and single-source shortest paths (SSSP). Each concept is explained in detail with its principles, operations, applications, and challenges.
 
 ---
 
